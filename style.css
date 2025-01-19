@@ -11,15 +11,22 @@
     align-items: center;
     border-radius: 10%;
 }
-
+h1{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    left: 30%;
+    text-decoration: underline;
+}
 .box{
     position: relative;
     top: 30%;
     left: 5%;
+    
 }
 #gen{
     position: fixed;
-    top:60%;
+    top:65%;
     right: 48%;
     /* left: 37%; */
     padding-bottom: 0%;
@@ -39,7 +46,7 @@ ul{
 }
 
 #list{
-    list-style-type: "Jock: ";
+    list-style-type: "Joke: ";
 }
 #list2{
     list-style-type: "Punchline: " ;
