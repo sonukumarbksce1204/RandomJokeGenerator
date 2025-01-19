@@ -1,4 +1,4 @@
-function jock(){
+function joke(){
     var list=document.getElementById("list")
     var list2=document.getElementById("list2")
     var jo=list.children[0]
